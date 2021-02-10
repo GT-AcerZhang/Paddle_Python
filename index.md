@@ -1,4 +1,5 @@
 # 飞桨领航团零基础Python速成营--面向对象学习心得
+# 课程链接：https://aistudio.baidu.com/aistudio/course/introduce/7073
 # 一、如何定义类？
 class Athlete:
 
